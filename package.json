@@ -1,0 +1,21 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "flashcard",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jones714/flashcard.git"
+  },
+  "author": "qjones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jones714/flashcard/issues"
+  },
+  "homepage": "https://github.com/jones714/flashcard#readme"
+}
